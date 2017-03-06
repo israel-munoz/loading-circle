@@ -17,7 +17,7 @@
   vertical-align: middle;
   width: 1em;
 }
-.loading::before,
+.loading-circle::before,
 .loading-circle::after {
   animation: 0s infinite none full-rotate running linear;
   border: solid .15em rgba(0, 0, 0, .5);
